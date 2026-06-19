@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="50%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#be123c"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#g4)" width="800" height="500"/>
+  <circle cx="650" cy="150" r="45" fill="white" opacity="0.08"/>
+  <circle cx="100" cy="420" r="30" fill="white" opacity="0.06"/>
+  <text x="400" y="260" text-anchor="middle" fill="white" font-family="sans-serif" font-size="40" font-weight="bold">E-Commerce Design</text>
+  <text x="400" y="310" text-anchor="middle" fill="white" font-family="sans-serif" font-size="16" opacity="0.7">电商视觉升级方案</text>
+</svg>

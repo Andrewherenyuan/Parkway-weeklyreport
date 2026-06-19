@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g3a" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#g3a)" width="800" height="500"/>
+  <rect x="80" y="70" width="180" height="12" rx="6" fill="white" opacity="0.2"/>
+  <circle cx="650" cy="380" r="70" fill="white" opacity="0.1"/>
+  <text x="400" y="240" text-anchor="middle" fill="white" font-family="sans-serif" font-size="44" font-weight="bold">AIA 友邦保险</text>
+  <text x="400" y="290" text-anchor="middle" fill="white" font-family="sans-serif" font-size="16" opacity="0.7">专业・信赖・守护</text>
+</svg>

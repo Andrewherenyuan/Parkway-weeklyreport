@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g3d" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#164e63"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#g3d)" width="800" height="500"/>
+  <circle cx="150" cy="120" r="50" fill="white" opacity="0.1"/>
+  <circle cx="680" cy="120" r="50" fill="white" opacity="0.1"/>
+  <text x="400" y="250" text-anchor="middle" fill="white" font-family="sans-serif" font-size="44" font-weight="bold">年金计划</text>
+  <text x="400" y="300" text-anchor="middle" fill="white" font-family="sans-serif" font-size="16" opacity="0.7">稳健理财・规划未来</text>
+</svg>

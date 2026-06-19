@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g5b" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#g5b)" width="800" height="500"/>
+  <circle cx="400" cy="180" r="50" fill="white" opacity="0.12"/>
+  <text x="400" y="260" text-anchor="middle" fill="white" font-family="sans-serif" font-size="38" font-weight="bold">医疗科普专栏</text>
+  <text x="400" y="310" text-anchor="middle" fill="white" font-family="sans-serif" font-size="16" opacity="0.7">传递健康知识・专业可信</text>
+</svg>

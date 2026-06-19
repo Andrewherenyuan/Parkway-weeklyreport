@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g3b" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e40af"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#g3b)" width="800" height="500"/>
+  <circle cx="400" cy="200" r="60" fill="white" opacity="0.15"/>
+  <text x="400" y="250" text-anchor="middle" fill="white" font-family="sans-serif" font-size="40" font-weight="bold">健康保障计划</text>
+  <text x="400" y="300" text-anchor="middle" fill="white" font-family="sans-serif" font-size="16" opacity="0.7">为全家人打造的专属保障</text>
+</svg>
